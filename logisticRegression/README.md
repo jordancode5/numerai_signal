@@ -17,6 +17,16 @@ A classic binary classifier that maps feature vectors to probabilities using a s
   - Area Under the Curve (AUC)
   - Accuracy
 
+### 🔹 `lightGBM` Logistic Regression
+
+Logistic Regression Plus
+
+#### 🚀 What This Does
+
+- Does logistic regression, but better
+- Takes into account potential nonlinear relationships and interactions
+- Not too out of control for feature prediction (yet) 
+
 #### 📈 Sample Output
 
 Training model for target_raw_return_20...
