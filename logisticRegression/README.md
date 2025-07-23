@@ -66,4 +66,5 @@ model = LGBMClassifier(
 
 - Download_data.ipynb: Simply gives an introduction of how to download data and see what you are working with
 - Quant_mk2_ipynb: Gives you a simple exercise of pulling, processing, splitting, training, and testing data with included histograms to visualize progress
+- Quant_mk3_ipynb: Markets are not a static thing; they shift with time. This is where you start making decisions on implementing a dynamic rather than static modeling framework. Using a walk-forward approach, you can adapt to current market regimes while maintaining some of the context of your past data. Be aware, there are MAJOR MAJOR MAJOR (do you get it?) tradeoffs between the amount and type of data you pick, the adaptability of your model, and the compute requirements of your model. 
 - 
