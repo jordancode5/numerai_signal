@@ -57,7 +57,8 @@ model = LGBMClassifier(
     objective="binary",
     verbosity=-1,
     random_state=42
-)```
+)
+```
 
 ---
 
