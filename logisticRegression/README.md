@@ -58,3 +58,9 @@ model = LGBMClassifier(
     verbosity=-1,
     random_state=42
 )
+
+#### A file summary
+
+- Download_data.ipynb: Simply gives an introduction of how to download data and see what you are working with
+- Quant_mk2_ipynb: Gives you a simple exercise of pulling, processing, splitting, training, and testing data with included histograms to visualize progress
+- 
