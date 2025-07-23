@@ -24,9 +24,9 @@ The goal is to generate predictive signals for financial assets using machine le
 ## 🔥 Results
 
 Top Spearman scores (validation):
-- `target_factor_neutral_20`: **0.0485**
-- `target_raw_return_20`: **0.0314**
-- `target_raw_return_60`: **0.0264**
+- `target_factor_neutral_20`: **TBD**
+- `target_raw_return_20`: **0.0201**
+- `target_raw_return_60`: **TBD**
 
 ## 🚀 Skills Used
 
