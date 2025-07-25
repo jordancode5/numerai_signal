@@ -4,7 +4,7 @@ In my own testing, there is a sharp turn around 2016 where using logistic regres
 
 ## 🧠 Logistic Regression Baselines
 
-This section contains two logistic regression-style models trained on the Numerai dataset: one using `scikit-learn` and another using `LightGBM`. These models serve as quick, interpretable baselines to understand the predictive structure of the data and establish initial benchmark metrics.
+This section contains two logistic regression-style models trained on the Numerai dataset: one using `scikit-learn` and another using `LightGBM` (I only have this one uploaded right now). These models serve as quick, interpretable baselines to understand the predictive structure of the data and establish initial benchmark metrics.
 
 ---
 
