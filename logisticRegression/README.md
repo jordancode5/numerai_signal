@@ -1,3 +1,7 @@
+## Warning
+
+In my own testing, there is a sharp turn around 2016 where using logistic regression and even gradient boosted logistic regression has a sharp alpha decay (without very creative periods and features). It appears that the introduction and adoption of TensorFlow (in 2016) libraries may have caused a dramatic shift in market dynamics.
+
 ## 🧠 Logistic Regression Baselines
 
 This section contains two logistic regression-style models trained on the Numerai dataset: one using `scikit-learn` and another using `LightGBM`. These models serve as quick, interpretable baselines to understand the predictive structure of the data and establish initial benchmark metrics.
